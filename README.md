@@ -1,1 +1,1 @@
-# imax market analysis through web-scrape
+# IMAX market analysis through web-scrape
